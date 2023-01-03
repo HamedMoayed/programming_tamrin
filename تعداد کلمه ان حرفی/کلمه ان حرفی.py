@@ -1,3 +1,8 @@
+#hamed moayed
+
+#clas:يکشنبه 7:45
+
+
 def word_in_sentence(sent,number):
     number_of_n = 0
     list_word = []
